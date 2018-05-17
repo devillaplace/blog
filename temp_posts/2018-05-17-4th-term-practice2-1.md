@@ -24,6 +24,7 @@ tSNE
 점들을 큰 차원에 뿌렸다가, Gradient Descent 를 반복해서 가깝게 이동시켜나감
 잘 되긴 하는데, 튜닝이 필요함. unsupervised clustering 알고리즘이기 때문에, 항상 최적 결과를 내지 않음.
 요즘은 tree-based t-SNE를 사용함 (빠름)
+feature selection before / after 를 그려보면, selection 의 영향을 확인할 수도 있다.
 
 
 Bagging
